@@ -13,6 +13,7 @@
 			<strong style="font-size:18px">ZANTERBENG VILLAGE</strong>
 			<a class="pull-right"> Connexion</a>&nbsp;&nbsp;
 			<a class="pull-right" style="padding-right:50px"> Inscription</a>
+			salut
 		</div>                                  
                                                                                                                                                                                                                                                                 
 																																													        <div id="myCarousel" class="carousel slide" style="margin-top:-20px;"> <!-- Carousel indicators --> <ol class="carousel-indicators"> <li data-target="#myCarousel" data-slide-to="0" class="active"></li> <li data-target="#myCarousel" data-slide-to="1"></li> <li data-target="#myCarousel" data-slide-to="2"></li> </ol> <!-- Carousel items --> <div class="carousel-inner"> <div class="item active"> <img src="image/header (7).jpg" alt="First slide"> </div> <div class="item"> <img src="image/header (8).jpg" alt="Second slide"> </div> <div class="item"> <img src="image/header (9).jpg" alt="Third slide"> </div> </div> <!-- Carousel nav --> <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a> <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
